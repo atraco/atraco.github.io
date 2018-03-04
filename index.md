@@ -12,21 +12,19 @@
 
 <iframe id="yt" width="500" height="250" src="https://www.youtube.com/embed/rt5iJaDQTMo" frameborder="0" allowfullscreen></iframe>
 
-### ESTO ES UN ASALTO
-
 suena la alarma<br/>
-otro dia<br/>
-noche dificil<br/>
+otro día<br/>
+noche difícil<br/>
 problemas, insomnio<br/>
-cafeina<br/>
+cafeína<br/>
 <br/>
-y un baño frio<br/>
+y un baño frío<br/>
 y en la calle<br/>
 calor prisa ruido<br/>
 malas caras<br/>
-congestion<br/>
+congestión<br/>
 <br/>
-humo policias<br/>
+humo policías<br/>
 vas en contra<br/>
 del reloj<br/>
 bocinas construcciones<br/>
@@ -47,7 +45,7 @@ año tras año<br/>
 despreciando tu conocimiento<br/>
 menospreciado por quien te necesita<br/>
 dando y dando sin recibir lo justo<br/>
-gran decepcion<br/>
+gran decepción<br/>
 <br/>
 y<br/>
 en tu casa<br/>
@@ -57,10 +55,10 @@ la publicidad te hipnotiza<br/>
 <br/>
 y en tu mente<br/>
 malos consejos<br/>
-mucho hastio<br/>
+mucho hastió<br/>
 <br/>
 cometer el crimen<br/>
-no sera complicado<br/>
+no será complicado<br/>
 con pastillas anti-miedo<br/>
 y una máscara<br/>
 <br/>
@@ -73,6 +71,7 @@ voy a matarlos<br/>
 me mataran<br/>
 los matare<br/>
 voy a matarme!<br/>
+
 
 ## Nosotros
 
