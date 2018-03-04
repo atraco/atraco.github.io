@@ -1,8 +1,8 @@
 ## Social
 
-[http://atracopunk.bandcamp.com ](atracopunk.bandcamp.com)
-[http://facebook.com/atracopunk](facebook.com/atracopunk)
-[http://soundcloud.com/atraco-punk](soundcloud.com/atraco-punk) 
+[atracopunk.bandcamp.com ](http://atracopunk.bandcamp.com)
+[facebook.com/atracopunk](http://facebook.com/atracopunk)
+[soundcloud.com/atraco-punk](http://soundcloud.com/atraco-punk) 
 
 ## Atraco @ Las 500
 
@@ -13,8 +13,8 @@
 <iframe id="yt" width="400" height="200" src="https://www.youtube.com/embed/rt5iJaDQTMo" frameborder="0" allowfullscreen></iframe>
 
 ### ESTO ES UN ASALTO
-suena la alarma
-otro dia
+{%suena la alarma%
+{%otro dia%)
 noche dificil
 problemas, insomnio
 cafeina
