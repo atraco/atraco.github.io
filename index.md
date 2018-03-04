@@ -1,80 +1,81 @@
 ## Social
 
-[atracopunk.bandcamp.com ](http://atracopunk.bandcamp.com)
-[facebook.com/atracopunk](http://facebook.com/atracopunk)
-[soundcloud.com/atraco-punk](http://soundcloud.com/atraco-punk) 
+[atracopunk.bandcamp.com ](http://atracopunk.bandcamp.com)<br/>
+[facebook.com/atracopunk](http://facebook.com/atracopunk)<br/>
+[soundcloud.com/atraco-punk](http://soundcloud.com/atraco-punk) <br/>
 
 ## Atraco @ Las 500
 
-<iframe id="yt" width="400" height="200" src="https://www.youtube.com/watch?v=lpkljcw92rA" frameborder="0" allowfullscreen></iframe>
+<iframe id="yt" width="500" height="250" src="https://www.youtube.com/embed/lpkljcw92rA" frameborder="0" allowfullscreen></iframe>
 
 ## Esto es un asalto
 
-<iframe id="yt" width="400" height="200" src="https://www.youtube.com/embed/rt5iJaDQTMo" frameborder="0" allowfullscreen></iframe>
+<iframe id="yt" width="500" height="250" src="https://www.youtube.com/embed/rt5iJaDQTMo" frameborder="0" allowfullscreen></iframe>
 
 ### ESTO ES UN ASALTO
-{%suena la alarma%
-{%otro dia%)
-noche dificil
-problemas, insomnio
-cafeina
 
-y un baño frio
-y en la calle
-calor prisa ruido
-malas caras
-congestion
-
-humo policias
-vas en contra
-del reloj
-bocinas construcciones
-y mal humor
-rutina
-mal rato
-
-y en la oficina
-lo mismo de siempre
-el cabron jefe
-exigiendo mejor
-desempeño
-el mismo sueldo
-
-la misma gente
-año tras año
-
-despreciando tu conocimiento
-menospreciado por quien te necesita
-dando y dando sin recibir lo justo
-gran decepcion
-
-y
-en tu casa
-bocas con hambre
-necesidades
-la publicidad te hipnotiza
-
-y en tu mente
-malos consejos
-mucho hastio
-
-cometer el crimen
-no sera complicado
-con pastillas anti-miedo
-y una máscara
-
-levanten las manos
-ESTO ES UN ASALTO
-
-un movimiento en falso
-y
-voy a matarlos
-me mataran
-los matare
-voy a matarme!
+suena la alarma<br/>
+otro dia<br/>
+noche dificil<br/>
+problemas, insomnio<br/>
+cafeina<br/>
+<br/>
+y un baño frio<br/>
+y en la calle<br/>
+calor prisa ruido<br/>
+malas caras<br/>
+congestion<br/>
+<br/>
+humo policias<br/>
+vas en contra<br/>
+del reloj<br/>
+bocinas construcciones<br/>
+y mal humor<br/>
+rutina<br/>
+mal rato<br/>
+<br/>
+y en la oficina<br/>
+lo mismo de siempre<br/>
+el cabron jefe<br/>
+exigiendo mejor<br/>
+desempeño<br/>
+el mismo sueldo<br/>
+<br/>
+la misma gente<br/>
+año tras año<br/>
+<br/>
+despreciando tu conocimiento<br/>
+menospreciado por quien te necesita<br/>
+dando y dando sin recibir lo justo<br/>
+gran decepcion<br/>
+<br/>
+y<br/>
+en tu casa<br/>
+bocas con hambre<br/>
+necesidades<br/>
+la publicidad te hipnotiza<br/>
+<br/>
+y en tu mente<br/>
+malos consejos<br/>
+mucho hastio<br/>
+<br/>
+cometer el crimen<br/>
+no sera complicado<br/>
+con pastillas anti-miedo<br/>
+y una máscara<br/>
+<br/>
+levanten las manos<br/>
+ESTO ES UN ASALTO<br/>
+<br/>
+un movimiento en falso<br/>
+y<br/>
+voy a matarlos<br/>
+me mataran<br/>
+los matare<br/>
+voy a matarme!<br/>
 
 ## Nosotros
 
-<img src="nosotros.png" />
+<img src="nosotros.png"/>
 
 
