@@ -1,11 +1,11 @@
 
 ## Atraco @ Las 500
 
-<iframe id="yt" width="500" height="250" src="https://www.youtube.com/embed/lpkljcw92rA" frameborder="0" allowfullscreen></iframe>
+<iframe id="yt1"  src="https://www.youtube.com/embed/lpkljcw92rA" frameborder="0" allowfullscreen></iframe>
 
 ## Esto es un asalto
 
-<iframe id="yt" width="500" height="250" src="https://www.youtube.com/embed/rt5iJaDQTMo" frameborder="0" allowfullscreen></iframe>
+<iframe id="yt2"  src="https://www.youtube.com/embed/rt5iJaDQTMo" frameborder="0" allowfullscreen></iframe>
 
 suena la alarma<br/>
 otro día<br/>
