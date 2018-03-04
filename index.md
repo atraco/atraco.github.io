@@ -1,8 +1,3 @@
-## Social
-
-[atracopunk.bandcamp.com ](http://atracopunk.bandcamp.com)<br/>
-[facebook.com/atracopunk](http://facebook.com/atracopunk)<br/>
-[soundcloud.com/atraco-punk](http://soundcloud.com/atraco-punk) <br/>
 
 ## Atraco @ Las 500
 
