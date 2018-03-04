@@ -12,20 +12,28 @@
 <link rel="canonical" href="https://atraco.stream/" />
 <meta property="og:url" content="https://atraco.stream/" />
 <meta property="og:site_name" content="ATRACO" />
-
+   <style type = "text/css">
+  @font-face {
+  font-family: "Archive";
+  src: url("Archive.otf");
+  }
+ #wrapper {
+  width: 90%;     /* specify a width! */
+  margin: 0 auto; /* center */
+  text-align:center;
+}
+ </style>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body style="font-family:Archive;">
     <div class="wrapper">
       <header>
         <a href="{{ site.github.url }}"> <img src="logo.png" alt="ATRACO" /> </a>
-        <p>PUNK, AIBONITO, PUERTO RICO</p>
-
-
+        <p style="text-align:center;width:100%;">PUNK, AIBONITO, PUERTO RICO</p>
       </header>
       <section>
 
@@ -33,7 +41,7 @@
 
       </section>
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by orderedlist</small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
